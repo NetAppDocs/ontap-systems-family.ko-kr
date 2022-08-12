@@ -1,0 +1,51 @@
+---
+settings:
+  name: AFF and FAS Family
+  internal:
+    pdf_enabled: false
+  prod:
+    pdf_enabled: false
+    harmony_enabled: false
+  langs: ko-kr,us-en,ja-jp,zh-cn,zh-tw
+sidebar:
+  entries:
+  - title: AFF and FAS 설명서
+    url: "/index.html"
+product-family:
+  search: clouddocs-ontap-systems_main-prod,clouddocs-ontap-systems-upgrade_main-prod,clouddocs-ontap-systems-switches_main-prod,clouddocs-ontap-metrocluster_main-prod
+  sidebarlinks:
+  - title: 모두
+    tags: tag_storage_management,tag_storage_upgrade,tag_storage_hardware,tag_get_started
+    class: active
+  - title: 시작하십시오
+    tags: tag_get_started
+  - title: 시스템 하드웨어
+    tags: tag_storage_hardware
+  - title: 시스템 업그레이드
+    tags: tag_storage_upgrade
+  tiles:
+  - title: AFF 및 FAS 제품군에 대해 알아보십시오
+    icon: "./media/family.png"
+    url: intro-family.html
+    summary: AFF 및 FAS 스토리지 시스템 제품군에 대해 알아보십시오.
+    tags: all, tag_get_started
+  - title: AFF 및 FAS 설치 및 유지 관리
+    icon: "./media/icon-onprem.png"
+    url: https://docs.netapp.com/us-en/ontap-systems/index.html
+    summary: AFF, FAS 또는 모든 SAN 어레이 시스템을 설치하고 유지 관리합니다.
+    tags: all, tag_storage_hardware
+  - title: AFF 및 FAS 업그레이드
+    icon: "./media/upgrade.png"
+    url: https://docs.netapp.com/us-en/ontap-systems-upgrade/index.html
+    summary: AFF 및 FAS 스토리지 시스템을 업그레이드합니다.
+    tags: all, tag_storage_upgrade
+  - title: 클러스터 및 스토리지 스위치
+    icon: "./media/switch.png"
+    url: https://docs.netapp.com/us-en/ontap-systems-switches/index.html
+    summary: 클러스터 및 스토리지 스위치의 설치, 업그레이드 및 유지 관리
+    tags: all, tag_storage_hardware, tag_storage_upgrade
+  - title: ONTAP MetroCluster
+    icon: "./media/metrocluster.png"
+    url: https://docs.netapp.com/us-en/ontap-metrocluster/index.html
+    summary: MetroCluster 구성을 설치 및 업그레이드 또는 확장하고 재해 복구를 수행합니다.
+    tags: all, tag_storage_upgrade
