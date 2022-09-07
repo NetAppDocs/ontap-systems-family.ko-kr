@@ -24,7 +24,7 @@ product-family:
   - title: 시스템 업그레이드
     tags: tag_storage_upgrade
   tiles:
-  - title: AFF 및 FAS 제품군에 대해 알아보십시오
+  - title: AFF 및 FAS에 대해 자세히 알아보십시오
     icon: "./media/family.png"
     url: intro-family.html
     summary: AFF 및 FAS 스토리지 시스템 제품군에 대해 알아보십시오.

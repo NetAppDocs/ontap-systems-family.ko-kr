@@ -54,7 +54,6 @@
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">시작하십시오</block>
   <block id="9e2ef56d3728315bb8dc93124d72f8cd" category="sidebar">시스템 하드웨어</block>
   <block id="0bcaacd75b850fde02c6d9384f639e41" category="sidebar">시스템 업그레이드</block>
-  <block id="1e60f6b12849df8cdca3629847cf0488" category="sidebar">AFF 및 FAS 제품군에 대해 알아보십시오</block>
   <block id="89367cedc98a9ab8e00fe6333998bb75" category="sidebar">AFF 및 FAS 스토리지 시스템 제품군에 대해 알아보십시오.</block>
   <block id="5d30e497af6505a70fb4a9dc3c844793" category="sidebar">AFF 및 FAS 설치 및 유지 관리</block>
   <block id="04de76368936f7c44c7e195855fd893c" category="sidebar">AFF, FAS 또는 모든 SAN 어레이 시스템을 설치하고 유지 관리합니다.</block>
@@ -64,4 +63,5 @@
   <block id="d5b36810f407899aa4d760770797c7eb" category="sidebar">클러스터 및 스토리지 스위치의 설치, 업그레이드 및 유지 관리</block>
   <block id="18f57d600a92c92b9c8e184c2871790b" category="sidebar">ONTAP MetroCluster</block>
   <block id="32a7a83439c989b80eeca364a3b4149c" category="sidebar">MetroCluster 구성을 설치 및 업그레이드 또는 확장하고 재해 복구를 수행합니다.</block>
+  <block id="92c6d872a66fecc8bd4e1d7766857bea" category="sidebar">AFF 및 FAS에 대해 자세히 알아보십시오</block>
 </blocks>
