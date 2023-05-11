@@ -24,7 +24,7 @@ NVMe 기반 AFF 시스템은 가상화 환경을 위해 구축된 강력한 스�
 
 All-Flash FAS 구성은 고성능, 짧은 지연 시간, 안정성이 요구되는 다양한 워크로드, 특히 VDI 및 데이터베이스를 지원하는 비즈니스 크리티컬 애플리케이션에 이상적인 솔루션입니다.
 
-https://www.netapp.com/pdf.html?item=/media/7828-ds-3582.pdf["AFF 데이터시트를 읽어 보십시오"^].
+https://["AFF A 시리즈 데이터시트를 읽어 보십시오"^] 및 https://["AFF C 시리즈 데이터시트를 읽어 보십시오"^].
 
 
 
@@ -34,7 +34,7 @@ FAS 하이브리드 플래시 시스템은 강력한 데이터 관리와 쉬운 
 
 FAS 하이브리드 플래시 시스템은 가용성이 높은 하드웨어를 통해 플래시 드라이브와 기존 회전식 드라이브를 이상적으로 결합하여 워크로드 요구사항을 비용 효율적으로 충족합니다. 백업 및 보존, 일반 비즈니스 애플리케이션 통합 및 분산 콘텐츠에 이상적입니다.
 
-https://www.netapp.com/pdf.html?item=/media/19763-ds-3829.pdf["FAS 데이터시트를 읽어 보십시오"^]
+https://["FAS 데이터시트를 읽어 보십시오"^]
 
 
 
@@ -44,7 +44,7 @@ ONTAP의 MetroCluster 기능으로 구성된 AFF 및 FAS 스토리지 시스템�
 
 표준 데이터 복제 솔루션과 달리 MetroCluster는 호스트 환경에서 원활하게 작동하여 지속적인 데이터 가용성을 제공하고, 복잡한 페일오버 스크립트를 생성하고 유지할 필요가 없습니다.
 
-https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["MetroCluster에 대해 자세히 알아보십시오"^]
+https://["MetroCluster에 대해 자세히 알아보십시오"^]
 
 
 
@@ -52,13 +52,13 @@ https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["MetroCluster에 �
 
 ONTAP 데이터 관리 소프트웨어는 AFF 및 FAS 시스템을 구동하는 클러스터 스토리지 소프트웨어입니다. 모든 유형의 AFF 및 FAS 노드를 최대 24개까지 지원하는 글로벌 네임스페이스를 통해 ONTAP 소프트웨어는 유니파이드 스토리지(블록 및 파일)를 지원하여 ONTAP 시스템 관리자 GUI를 통해 관리할 수 있는 대규모 워크로드 통합을 지원합니다.
 
-https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["ONTAP 데이터시트를 읽어 보십시오"^].
+https://["ONTAP 데이터시트를 읽어 보십시오"^].
 
 
 
 == 를 참조하십시오
 
-* https://docs.netapp.com/us-en/ontap-systems/index.html["AFF and FAS 문서"^]
-* https://docs.netapp.com/us-en/ontap-metrocluster/index.html["MetroCluster 문서"^]
-* https://docs.netapp.com/us-en/ontap/index.html["ONTAP 문서"^]
+* https://["AFF and FAS 문서"^]
+* https://["MetroCluster 문서"^]
+* https://["ONTAP 문서"^]
 

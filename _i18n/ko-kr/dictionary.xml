@@ -8,13 +8,10 @@
   <block id="3c6f546d42200583dd3ef64c44a12306" category="section-title">AFF(All Flash FAS) 시스템</block>
   <block id="223ef00238c9b7a5c70952ac89019615" category="paragraph">NVMe 기반 AFF 시스템은 가상화 환경을 위해 구축된 강력한 스케일아웃 플랫폼으로, NetApp ONTAP 구성에서 독립 시스템 또는 고성능 계층으로 구축할 수 있습니다.</block>
   <block id="8977f307824a451c0aee8f74c26d4135" category="paragraph">All-Flash FAS 구성은 고성능, 짧은 지연 시간, 안정성이 요구되는 다양한 워크로드, 특히 VDI 및 데이터베이스를 지원하는 비즈니스 크리티컬 애플리케이션에 이상적인 솔루션입니다.</block>
-  <block id="8b8f0b3a15c5a759df893ab159a9dd8e" category="inline-link">AFF 데이터시트를 읽어 보십시오</block>
-  <block id="edea91522f14fdffcc980d8465add3b1" category="paragraph"><block ref="ea1915011593f20bb5a7853a6a5bb1eb" category="inline-link-rx"></block>.</block>
   <block id="2d69532c2bc4914b794c51462df97ff8" category="section-title">FAS 하이브리드 플래시 시스템</block>
   <block id="5ab178f682531bfb5e673ff1b9e3d1f4" category="paragraph">FAS 하이브리드 플래시 시스템은 강력한 데이터 관리와 쉬운 클라우드 연결이 필요한 공유 통합 SAN 및 NAS 환경을 위해 만들어진 하드웨어 플랫폼입니다.</block>
   <block id="6ba8a0dc29ca1ad626a611908a5cf95f" category="paragraph">FAS 하이브리드 플래시 시스템은 가용성이 높은 하드웨어를 통해 플래시 드라이브와 기존 회전식 드라이브를 이상적으로 결합하여 워크로드 요구사항을 비용 효율적으로 충족합니다. 백업 및 보존, 일반 비즈니스 애플리케이션 통합 및 분산 콘텐츠에 이상적입니다.</block>
   <block id="97685b4942693fb4c77d8b4efbd3f75d" category="inline-link">FAS 데이터시트를 읽어 보십시오</block>
-  <block id="962fcdf0e3f30c90386f558dada69895" category="paragraph"><block ref="962fcdf0e3f30c90386f558dada69895" category="inline-link-rx"></block></block>
   <block id="1749d12df3df2319d3eee218a277ff83" category="section-title">MetroCluster</block>
   <block id="d8da382e26478f0bc6e18592fafd00ee" category="paragraph">ONTAP의 MetroCluster 기능으로 구성된 AFF 및 FAS 스토리지 시스템은 어레이 기반 클러스터링을 동기식 복제와 결합하여 지속적인 가용성과 데이터 무손실 을 제공하는 솔루션을 제공합니다. MetroCluster 구성은 모든 미션 크리티컬 데이터를 트랜잭션별로 즉시 복제하므로 애플리케이션과 데이터에 중단 없이 액세스할 수 있도록 지원합니다.</block>
   <block id="e0a6bc6b2de7e7984c7936f947f3eb21" category="paragraph">표준 데이터 복제 솔루션과 달리 MetroCluster는 호스트 환경에서 원활하게 작동하여 지속적인 데이터 가용성을 제공하고, 복잡한 페일오버 스크립트를 생성하고 유지할 필요가 없습니다.</block>
@@ -64,6 +61,8 @@
   <block id="18f57d600a92c92b9c8e184c2871790b" category="sidebar">ONTAP MetroCluster</block>
   <block id="32a7a83439c989b80eeca364a3b4149c" category="sidebar">MetroCluster 구성을 설치 및 업그레이드 또는 확장하고 재해 복구를 수행합니다.</block>
   <block id="92c6d872a66fecc8bd4e1d7766857bea" category="sidebar">AFF 및 FAS에 대해 자세히 알아보십시오</block>
-  <block id="eb75aeb3b4b2b9734ba3e52f5483f0b2" category="sidebar">ONTAP 설명서</block>
-  <block id="8005bf029d4b2e78ade8d024d73dbce2" category="sidebar">ONTAP 설명서를 참조하여 ONTAP 설정 방법, 클라이언트에 스토리지 용량 할당, System Manager 또는 CLI를 사용하여 데이터 보호 및 관리 방법에 대한 정보를 찾을 수 있습니다.</block>
+  <block id="89392af5eda25c825021d432ddf93588" category="inline-link">AFF A 시리즈 데이터시트를 읽어 보십시오</block>
+  <block id="4ba32667802f0b1a025017cfc6aed8c5" category="inline-link">AFF C 시리즈 데이터시트를 읽어 보십시오</block>
+  <block id="3017e986a1affd8067036e1a51295fdf" category="paragraph"><block ref="56354ddbfd942daf4a7f0a154d6b237e" category="inline-link-rx"></block> 및<block ref="589bc220bfa55a5bb8d6785946afbc2e" category="inline-link-rx"></block>.</block>
+  <block id="fac33d262d5cecdc4766c37ba6f9f935" category="paragraph"><block ref="fac33d262d5cecdc4766c37ba6f9f935" category="inline-link-rx"></block></block>
 </blocks>
