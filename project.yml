@@ -10,7 +10,7 @@ settings:
   langs: ko-kr,us-en,ja-jp,zh-cn,zh-tw,de-de,es-es,fr-fr,it-it
 sidebar:
   entries:
-  - title: AFF and FAS 설명서
+  - title: ONTAP 하드웨어 시스템 설명서
     url: "/index.html"
 product-family:
   sidebarlinks:
@@ -24,20 +24,20 @@ product-family:
   - title: 시스템 업그레이드
     tags: tag_storage_upgrade
   tiles:
-  - title: AFF 및 FAS에 대해 자세히 알아보십시오
+  - title: ONTAP 하드웨어 시스템에 대해 알아보십시오
     icon: "./media/family.png"
     url: intro-family.html
-    summary: AFF 및 FAS 스토리지 시스템 제품군에 대해 알아보십시오.
+    summary: ONTAP 하드웨어 시스템에 대해 알아보십시오.
     tags: all, tag_get_started
-  - title: AFF 및 FAS 설치 및 유지 관리
+  - title: 설치 및 유지 관리
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/ontap-systems/index.html
-    summary: AFF, FAS 또는 모든 SAN 어레이 시스템을 설치하고 유지 관리합니다.
+    summary: ONTAP 하드웨어 시스템을 설치하고 유지 관리합니다.
     tags: all, tag_storage_hardware
-  - title: AFF 및 FAS 업그레이드
+  - title: 업그레이드
     icon: "./media/upgrade.png"
     url: https://docs.netapp.com/us-en/ontap-systems-upgrade/index.html
-    summary: AFF 및 FAS 스토리지 시스템을 업그레이드합니다.
+    summary: ONTAP 하드웨어 시스템을 업그레이드합니다.
     tags: all, tag_storage_upgrade
   - title: 클러스터 및 스토리지 스위치
     icon: "./media/switch.png"

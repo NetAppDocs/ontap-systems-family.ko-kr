@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
-  <block id="d24f49ab459eb5cf20cac1a98ab2f379" category="summary">NetApp ONTAP 스토리지 시스템 제품군은 관리가 쉽고 빠르고 안전한 스토리지와 엔터프라이즈급 안정성, 지속적인 데이터 액세스가 필요한 엔터프라이즈 애플리케이션을 위해 설계되었습니다.</block>
-  <block id="8c04ea70634d0554f973a2d69d65a295" category="doc">AFF 및 FAS 스토리지 시스템 제품군에 대해 알아보십시오</block>
-  <block id="85cf9c0ff76eceb38b21e8b18cd1cb9a" category="paragraph">NetApp AFF 및 FAS 스토리지 시스템 제품군은 관리가 쉽고 빠르고 안전한 스토리지와 엔터프라이즈급 안정성, 지속적인 데이터 액세스가 필요한 엔터프라이즈 애플리케이션을 위해 설계되었습니다.</block>
-  <block id="d33452f83a0ff2c23eb72b0e994747a5" category="paragraph">AFF 및 FAS 시스템은 All-Flash(AFF), 하이브리드 플래시 및 HDD 전용(FAS) 구성으로 제공되며 성능, 용량 및 비용 요구사항에 가장 적합한 스토리지 미디어 조합을 선택할 수 있습니다.</block>
-  <block id="26c1e0398fc6b3e1d0a15a0d26117bea" category="paragraph">다양한 AFF 및 FAS 모델 조합을 클러스터링하면 동일한 스토리지 시스템에서 혼합 워크로드를 실행하고, 최신 기술로 새로운 세대의 스토리지를 추가하여 환경을 확장할 수 있습니다.</block>
   <block id="3c6f546d42200583dd3ef64c44a12306" category="section-title">AFF(All Flash FAS) 시스템</block>
   <block id="223ef00238c9b7a5c70952ac89019615" category="paragraph">NVMe 기반 AFF 시스템은 가상화 환경을 위해 구축된 강력한 스케일아웃 플랫폼으로, NetApp ONTAP 구성에서 독립 시스템 또는 고성능 계층으로 구축할 수 있습니다.</block>
   <block id="8977f307824a451c0aee8f74c26d4135" category="paragraph">All-Flash FAS 구성은 고성능, 짧은 지연 시간, 안정성이 요구되는 다양한 워크로드, 특히 VDI 및 데이터베이스를 지원하는 비즈니스 크리티컬 애플리케이션에 이상적인 솔루션입니다.</block>
@@ -13,12 +8,10 @@
   <block id="6ba8a0dc29ca1ad626a611908a5cf95f" category="paragraph">FAS 하이브리드 플래시 시스템은 가용성이 높은 하드웨어를 통해 플래시 드라이브와 기존 회전식 드라이브를 이상적으로 결합하여 워크로드 요구사항을 비용 효율적으로 충족합니다. 백업 및 보존, 일반 비즈니스 애플리케이션 통합 및 분산 콘텐츠에 이상적입니다.</block>
   <block id="97685b4942693fb4c77d8b4efbd3f75d" category="inline-link">FAS 데이터시트를 읽어 보십시오</block>
   <block id="1749d12df3df2319d3eee218a277ff83" category="section-title">MetroCluster</block>
-  <block id="d8da382e26478f0bc6e18592fafd00ee" category="paragraph">ONTAP의 MetroCluster 기능으로 구성된 AFF 및 FAS 스토리지 시스템은 어레이 기반 클러스터링을 동기식 복제와 결합하여 지속적인 가용성과 데이터 무손실 을 제공하는 솔루션을 제공합니다. MetroCluster 구성은 모든 미션 크리티컬 데이터를 트랜잭션별로 즉시 복제하므로 애플리케이션과 데이터에 중단 없이 액세스할 수 있도록 지원합니다.</block>
   <block id="e0a6bc6b2de7e7984c7936f947f3eb21" category="paragraph">표준 데이터 복제 솔루션과 달리 MetroCluster는 호스트 환경에서 원활하게 작동하여 지속적인 데이터 가용성을 제공하고, 복잡한 페일오버 스크립트를 생성하고 유지할 필요가 없습니다.</block>
   <block id="f8e19c375690f5b7624b2e50f0cd6854" category="inline-link">MetroCluster에 대해 자세히 알아보십시오</block>
   <block id="12ec083d4ad98cfdd42aca66fcc37845" category="paragraph"><block ref="12ec083d4ad98cfdd42aca66fcc37845" category="inline-link-rx"></block></block>
   <block id="efd44736fee0b29831bc101f834f9425" category="section-title">ONTAP 소프트웨어</block>
-  <block id="71104b6e4383497ec6f88bada2d3d545" category="paragraph">ONTAP 데이터 관리 소프트웨어는 AFF 및 FAS 시스템을 구동하는 클러스터 스토리지 소프트웨어입니다. 모든 유형의 AFF 및 FAS 노드를 최대 24개까지 지원하는 글로벌 네임스페이스를 통해 ONTAP 소프트웨어는 유니파이드 스토리지(블록 및 파일)를 지원하여 ONTAP 시스템 관리자 GUI를 통해 관리할 수 있는 대규모 워크로드 통합을 지원합니다.</block>
   <block id="ac50b55c541887c8213257b7fa8011db" category="inline-link">ONTAP 데이터시트를 읽어 보십시오</block>
   <block id="b29519a2297404339371dd4904a14b94" category="paragraph"><block ref="c8c2c80c2dc2440549184e1ee06ef9aa" category="inline-link-rx"></block>.</block>
   <block id="d13de4a83d7b44c2e65495def8ef1c7b" category="section-title">를 참조하십시오</block>
@@ -41,22 +34,14 @@
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">통지 파일은 NetApp 소프트웨어에 사용된 타사의 저작권 및 라이센스에 대한 정보를 제공합니다.</block>
   <block id="27e4f654e31a54c18c3f94846eb8fcc2" category="inline-link">디스크 쉘프에 대한 고지 사항</block>
   <block id="0c8d7a4e0e5ab5d34b549a9af84add17" category="paragraph"><block ref="0c8d7a4e0e5ab5d34b549a9af84add17" category="inline-link-rx"></block></block>
-  <block id="44d8486403c2cdfe41dc5de62cbf76d1" category="summary">NetApp AFF 및 FAS 스토리지 시스템은 단순하고 관리가 쉬우며 엔터프라이즈급 안정성을 갖춘 All-Flash 스토리지가 필요한 고대역폭 애플리케이션을 위한 스토리지 및 애플리케이션 데이터 관리 서비스를 제공합니다.</block>
-  <block id="353534d94bfe5cda4a518ae399d604c2" category="doc">AFF and FAS 설명서</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">모두</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">시작하십시오</block>
   <block id="9e2ef56d3728315bb8dc93124d72f8cd" category="sidebar">시스템 하드웨어</block>
   <block id="0bcaacd75b850fde02c6d9384f639e41" category="sidebar">시스템 업그레이드</block>
-  <block id="89367cedc98a9ab8e00fe6333998bb75" category="sidebar">AFF 및 FAS 스토리지 시스템 제품군에 대해 알아보십시오.</block>
-  <block id="5d30e497af6505a70fb4a9dc3c844793" category="sidebar">AFF 및 FAS 설치 및 유지 관리</block>
-  <block id="04de76368936f7c44c7e195855fd893c" category="sidebar">AFF, FAS 또는 모든 SAN 어레이 시스템을 설치하고 유지 관리합니다.</block>
-  <block id="53d4dca81abe1b4d22f8624acbac213b" category="sidebar">AFF 및 FAS 업그레이드</block>
-  <block id="42710888a632d6579b04a4f26901f69a" category="sidebar">AFF 및 FAS 스토리지 시스템을 업그레이드합니다.</block>
   <block id="cce8f24137d8ba188a996f1ac50fd1c9" category="sidebar">클러스터 및 스토리지 스위치</block>
   <block id="d5b36810f407899aa4d760770797c7eb" category="sidebar">클러스터 및 스토리지 스위치의 설치, 업그레이드 및 유지 관리</block>
   <block id="18f57d600a92c92b9c8e184c2871790b" category="sidebar">ONTAP MetroCluster</block>
   <block id="32a7a83439c989b80eeca364a3b4149c" category="sidebar">MetroCluster 구성을 설치 및 업그레이드 또는 확장하고 재해 복구를 수행합니다.</block>
-  <block id="92c6d872a66fecc8bd4e1d7766857bea" category="sidebar">AFF 및 FAS에 대해 자세히 알아보십시오</block>
   <block id="89392af5eda25c825021d432ddf93588" category="inline-link">AFF A 시리즈 데이터시트를 읽어 보십시오</block>
   <block id="4ba32667802f0b1a025017cfc6aed8c5" category="inline-link">AFF C 시리즈 데이터시트를 읽어 보십시오</block>
   <block id="3017e986a1affd8067036e1a51295fdf" category="paragraph"><block ref="56354ddbfd942daf4a7f0a154d6b237e" category="inline-link-rx"></block> 및<block ref="589bc220bfa55a5bb8d6785946afbc2e" category="inline-link-rx"></block>.</block>
@@ -69,4 +54,22 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="b05f1c4b5e26f3eac9dee0aad263ed75" category="summary">NetApp의 ONTAP 스토리지 시스템 제품군은 엔터프라이즈급 안정성과 지속적인 데이터 액세스 기능을 갖춘 신속하고 안전한 스토리지가 필요한 엔터프라이즈 애플리케이션을 위해 설계되었습니다.</block>
+  <block id="4931551222aa917801cbe975fd254f58" category="doc">ONTAP 하드웨어 시스템에 대해 알아보십시오</block>
+  <block id="854c844bc4fd6abc91a977f49db56a07" category="paragraph">NetApp의 ONTAP 하드웨어 시스템은 엔터프라이즈급 안정성과 지속적인 데이터 액세스 기능을 갖춘, 관리가 간편하고 빠르며 안전한 스토리지가 필요한 엔터프라이즈 애플리케이션을 위해 설계되었습니다.</block>
+  <block id="92c71332ca57dee04135a2037db6113d" category="paragraph">NetApp의 ONTAP 하드웨어 시스템은 All-Flash(AFF) 및 하이브리드 플래시 및 FAS(HDD 전용) 구성으로 제공되므로 성능, 용량 및 비용 요구사항을 가장 잘 충족하는 혼합 스토리지 미디어를 선택할 수 있습니다.</block>
+  <block id="3732021d709f401480670fe0967338ce" category="paragraph">다양한 모델 조합을 클러스터링하여 동일한 스토리지 시스템에서 혼합 워크로드를 실행하고 최신 기술을 갖춘 새로운 세대의 스토리지를 추가하여 환경을 확장할 수 있습니다.</block>
+  <block id="1bca200f5a2f620714b2ee8b86ec36f2" category="section-title">ASA(All SAN Array) 시스템</block>
+  <block id="172f4b9c0cae1bff93aa1f4793e65421" category="paragraph">NetApp ASA(All-Flash SAN 어레이)는 FCP 또는 iSCSI 프로토콜을 통해 엔터프라이즈 미션 크리티컬 데이터베이스 및 기타 SAN 워크로드에 지속적인 데이터 가용성을 제공하는 단순화된 전용 SAN 경험을 제공합니다.</block>
+  <block id="aec950ad3eb8e00365bee35dd403ea61" category="inline-link">ASA 데이터시트를 읽어 보십시오</block>
+  <block id="42fa76a7b072e3d32194f9e32ee843c3" category="paragraph"><block ref="42fa76a7b072e3d32194f9e32ee843c3" category="inline-link-rx"></block></block>
+  <block id="09cbbac77d0ef506dcbd294171cc66dc" category="paragraph">ONTAP의 MetroCluster 기능으로 구성된 ONTAP의 하드웨어 스토리지 시스템은 어레이 기반 클러스터링을 동기식 복제와 결합하여 지속적인 가용성과 데이터 무손실을 실현하는 솔루션을 제공합니다. MetroCluster 구성은 모든 미션 크리티컬 데이터를 트랜잭션별로 즉시 복제하므로 애플리케이션과 데이터에 중단 없이 액세스할 수 있도록 지원합니다.</block>
+  <block id="f5663fc0d37f754e24c01ce5dd001d5f" category="paragraph">ONTAP 데이터 관리 소프트웨어는 ONTAP 하드웨어 시스템을 구동하는 클러스터 스토리지 소프트웨어입니다. ONTAP 소프트웨어는 모든 유형의 하드웨어 노드를 최대 24개까지 지원하는 글로벌 네임스페이스를 통해 유니파이드 스토리지(블록 및 파일)를 지원하므로, ONTAP System Manager GUI를 사용하여 상당한 워크로드 통합을 관리할 수 있습니다.</block>
+  <block id="1f90335d79116dc043d2eb600c05f7dd" category="summary">NetApp의 ONTAP AFF, FAS 및 ASA 하드웨어 스토리지 시스템은 엔터프라이즈급 안정성을 갖춘 All-Flash 스토리지가 필요한 고대역폭 애플리케이션을 위한 스토리지 및 애플리케이션 데이터 관리 서비스를 제공합니다.</block>
+  <block id="ec6e72d1c4bb7dccdc62b6caf35c95f7" category="doc">ONTAP 하드웨어 시스템 설명서</block>
+  <block id="0f7d6ea8518a2e39acde3d5aa8ea5537" category="sidebar">ONTAP 하드웨어 시스템에 대해 알아보십시오.</block>
+  <block id="802513659955a80d18b4529f94a6fd08" category="sidebar">설치 및 유지 관리</block>
+  <block id="345144a7a37c16195cdc0333ceebb0a8" category="sidebar">ONTAP 하드웨어 시스템을 설치하고 유지 관리합니다.</block>
+  <block id="f683581d3e75f05f9d9215f9b4696cef" category="sidebar">업그레이드</block>
+  <block id="273baa0433bc0b2ead69ee760355071e" category="sidebar">ONTAP 하드웨어 시스템을 업그레이드합니다.</block>
 </blocks>
