@@ -59,7 +59,6 @@
   <block id="854c844bc4fd6abc91a977f49db56a07" category="paragraph">NetApp의 ONTAP 하드웨어 시스템은 엔터프라이즈급 안정성과 지속적인 데이터 액세스 기능을 갖춘, 관리가 간편하고 빠르며 안전한 스토리지가 필요한 엔터프라이즈 애플리케이션을 위해 설계되었습니다.</block>
   <block id="92c71332ca57dee04135a2037db6113d" category="paragraph">NetApp의 ONTAP 하드웨어 시스템은 All-Flash(AFF) 및 하이브리드 플래시 및 FAS(HDD 전용) 구성으로 제공되므로 성능, 용량 및 비용 요구사항을 가장 잘 충족하는 혼합 스토리지 미디어를 선택할 수 있습니다.</block>
   <block id="3732021d709f401480670fe0967338ce" category="paragraph">다양한 모델 조합을 클러스터링하여 동일한 스토리지 시스템에서 혼합 워크로드를 실행하고 최신 기술을 갖춘 새로운 세대의 스토리지를 추가하여 환경을 확장할 수 있습니다.</block>
-  <block id="1bca200f5a2f620714b2ee8b86ec36f2" category="section-title">ASA(All SAN Array) 시스템</block>
   <block id="172f4b9c0cae1bff93aa1f4793e65421" category="paragraph">NetApp ASA(All-Flash SAN 어레이)는 FCP 또는 iSCSI 프로토콜을 통해 엔터프라이즈 미션 크리티컬 데이터베이스 및 기타 SAN 워크로드에 지속적인 데이터 가용성을 제공하는 단순화된 전용 SAN 경험을 제공합니다.</block>
   <block id="aec950ad3eb8e00365bee35dd403ea61" category="inline-link">ASA 데이터시트를 읽어 보십시오</block>
   <block id="42fa76a7b072e3d32194f9e32ee843c3" category="paragraph"><block ref="42fa76a7b072e3d32194f9e32ee843c3" category="inline-link-rx"></block></block>
@@ -72,4 +71,5 @@
   <block id="345144a7a37c16195cdc0333ceebb0a8" category="sidebar">ONTAP 하드웨어 시스템을 설치하고 유지 관리합니다.</block>
   <block id="f683581d3e75f05f9d9215f9b4696cef" category="sidebar">업그레이드</block>
   <block id="273baa0433bc0b2ead69ee760355071e" category="sidebar">ONTAP 하드웨어 시스템을 업그레이드합니다.</block>
+  <block id="f40344306e48f0136b4a528e6200d2ed" category="section-title">ASA(All Flash SAN 어레이) 시스템</block>
 </blocks>

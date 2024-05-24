@@ -1,0 +1,43 @@
+---
+product-family:
+  title: ONTAP 하드웨어 시스템 설명서
+  lead: NetApp의 ONTAP AFF, FAS 및 ASA 하드웨어 스토리지 시스템은 엔터프라이즈급 안정성을 갖춘 All-Flash 스토리지가
+    필요한 고대역폭 애플리케이션을 위한 스토리지 및 애플리케이션 데이터 관리 서비스를 제공합니다.
+  summary: NetApp의 ONTAP AFF, FAS 및 ASA 하드웨어 스토리지 시스템은 엔터프라이즈급 안정성을 갖춘 All-Flash 스토리지가
+    필요한 고대역폭 애플리케이션을 위한 스토리지 및 애플리케이션 데이터 관리 서비스를 제공합니다.
+  sidebarlinks:
+  - title: 모두
+    tags: tag_all
+    class: active
+  - title: 시작하십시오
+    tags: tag_get_started
+  - title: 시스템 하드웨어
+    tags: tag_storage_hardware
+  - title: 시스템 업그레이드
+    tags: tag_storage_upgrade
+  tiles:
+  - title: ONTAP 하드웨어 시스템에 대해 알아보십시오
+    icon: "./media/family.png"
+    url: intro-family.html
+    summary: ONTAP 하드웨어 시스템에 대해 알아보십시오.
+    tags: tag_all, tag_get_started, tag_storage_hardware, tag_storage_upgrade
+  - title: 설치 및 유지 관리
+    icon: "./media/icon-onprem.png"
+    url: "../ontap-systems/index.html"
+    summary: ONTAP 하드웨어 시스템을 설치하고 유지 관리합니다.
+    tags: tag_all, tag_storage_hardware
+  - title: 업그레이드
+    icon: "./media/upgrade.png"
+    url: "../ontap-systems-upgrade/index.html"
+    summary: ONTAP 하드웨어 시스템을 업그레이드합니다.
+    tags: tag_all, tag_storage_upgrade
+  - title: 클러스터 및 스토리지 스위치
+    icon: "./media/switch.png"
+    url: "../ontap-systems-switches/index.html"
+    summary: 클러스터 및 스토리지 스위치의 설치, 업그레이드 및 유지 관리
+    tags: tag_all, tag_storage_hardware, tag_storage_upgrade
+  - title: ONTAP MetroCluster
+    icon: "./media/metrocluster.png"
+    url: "../ontap-metrocluster/index.html"
+    summary: MetroCluster 구성을 설치 및 업그레이드 또는 확장하고 재해 복구를 수행합니다.
+    tags: tag_all, tag_storage_upgrade
