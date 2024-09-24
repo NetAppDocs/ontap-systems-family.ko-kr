@@ -25,7 +25,9 @@ NVMe 기반 AFF 시스템은 가상화 환경을 위해 구축된 강력한 스�
 
 All-Flash FAS 구성은 고성능, 짧은 지연 시간, 안정성이 요구되는 다양한 워크로드, 특히 VDI 및 데이터베이스를 지원하는 비즈니스 크리티컬 애플리케이션에 이상적인 솔루션입니다.
 
-https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["AFF A 시리즈 데이터시트를 읽어 보십시오"^] 및 https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["AFF C 시리즈 데이터시트를 읽어 보십시오"^].
+* https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["AFF A-Series 데이터시트를 읽어 보십시오"^]
+* https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["AFF C-Series 데이터시트를 읽어 보십시오"^]
+
 
 
 
@@ -33,7 +35,15 @@ https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["AFF A
 
 NetApp ASA(All-Flash SAN 어레이)는 FCP 또는 iSCSI 프로토콜을 통해 엔터프라이즈 미션 크리티컬 데이터베이스 및 기타 SAN 워크로드에 지속적인 데이터 가용성을 제공하는 단순화된 전용 SAN 경험을 제공합니다.
 
-https://www.netapp.com/pdf.html?item=/media/19466-SB-4081.pdf["ASA 데이터시트를 읽어 보십시오"^]
+.ASA r2 시스템
+새로운 NetApp ASA R2 시스템(ASA A1K, ASA A70 및 ASA A90)은 SAN 전용 고객의 요구 사항에 맞는 간소화된 환경을 제공하는 통합된 하드웨어 및 소프트웨어 솔루션을 제공합니다.
+
+ASA R2 시스템에서 ONTAP 소프트웨어 및 System Manager를 간소화하여 필수 SAN 기능을 지원하는 동시에 SAN 환경에서 지원되지 않는 기능에 대한 가시성을 제거합니다.
+
+* https://www.netapp.com/data-storage/all-flash-san-storage-array/["ASA 데이터시트를 읽어 보십시오"^]
+* 에 대해 자세히 알아보십시오 link:https://docs.netapp.com/us-en/asa-r2/learn-more/hardware-comparison.html["새로운 ASA R2 시스템을 ASA 시스템과 비교"^]
+* 에서 ASA 및 ASA R2 시스템에 대한 전체 구성 지원 및 제한 사항을 참조하십시오 https://hwu.netapp.com/["NetApp Hardware Universe를 참조하십시오"^]
+
 
 
 
@@ -61,13 +71,10 @@ https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["MetroCluster에 �
 
 ONTAP 데이터 관리 소프트웨어는 ONTAP 하드웨어 시스템을 구동하는 클러스터 스토리지 소프트웨어입니다. ONTAP 소프트웨어는 모든 유형의 하드웨어 노드를 최대 24개까지 지원하는 글로벌 네임스페이스를 통해 유니파이드 스토리지(블록 및 파일)를 지원하므로, ONTAP System Manager GUI를 사용하여 상당한 워크로드 통합을 관리할 수 있습니다.
 
-https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["ONTAP 데이터시트를 읽어 보십시오"^].
+https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["ONTAP 소프트웨어 데이터시트를 읽어 보십시오"^]
 
-
-
-== 를 참조하십시오
-
-* https://docs.netapp.com/us-en/ontap-systems/index.html["AFF and FAS 문서"^]
+.를 참조하십시오
+* https://docs.netapp.com/us-en/ontap-systems/index.html["ONTAP 하드웨어 시스템 설명서"^]
 * https://docs.netapp.com/us-en/ontap-metrocluster/index.html["MetroCluster 문서"^]
 * https://docs.netapp.com/us-en/ontap/index.html["ONTAP 문서"^]
 

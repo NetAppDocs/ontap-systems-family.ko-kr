@@ -21,12 +21,24 @@ product-family:
     url: intro-family.html
     summary: ONTAP 하드웨어 시스템에 대해 알아보십시오.
     tags: tag_all, tag_get_started, tag_storage_hardware, tag_storage_upgrade
-  - title: 설치 및 유지 관리
+  - title: AFF 시스템
     icon: "./media/icon-onprem.png"
-    url: "../ontap-systems/index.html"
-    summary: ONTAP 하드웨어 시스템을 설치하고 유지 관리합니다.
+    url: "../ontap-systems/aff-landing/index.html"
+    summary: AFF 시스템을 설치 및 유지 관리합니다.
+  - title: ASA 시스템
+    icon: "./media/icon-onprem.png"
+    url: "../ontap-systems/allsan-landing/index.html"
+    summary: ASA 시스템을 설치 및 유지 관리합니다.
+  - title: FAS 시스템
+    icon: "./media/icon-onprem.png"
+    url: "../ontap-systems/fas/index.html"
+    summary: FAS 시스템을 설치 및 유지 관리합니다.
+  - title: ASA r2 시스템
+    icon: "./media/icon-onprem.png"
+    url: "../ontap-systems/asa-r2/index.html"
+    summary: ASA R2 시스템을 설치하고 사용합니다.
     tags: tag_all, tag_storage_hardware
-  - title: 업그레이드
+  - title: ONTAP 하드웨어 시스템을 업그레이드합니다
     icon: "./media/upgrade.png"
     url: "../ontap-systems-upgrade/index.html"
     summary: ONTAP 하드웨어 시스템을 업그레이드합니다.
