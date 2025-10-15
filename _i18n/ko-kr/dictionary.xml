@@ -25,12 +25,10 @@
   <block id="b05f1c4b5e26f3eac9dee0aad263ed75" category="summary">NetApp의 ONTAP 스토리지 시스템 제품군은 엔터프라이즈급 안정성과 지속적인 데이터 액세스 기능을 갖춘 신속하고 안전한 스토리지가 필요한 엔터프라이즈 애플리케이션을 위해 설계되었습니다.</block>
   <block id="4931551222aa917801cbe975fd254f58" category="doc">ONTAP 하드웨어 시스템에 대해 알아보십시오</block>
   <block id="854c844bc4fd6abc91a977f49db56a07" category="paragraph">NetApp의 ONTAP 하드웨어 시스템은 엔터프라이즈급 안정성과 지속적인 데이터 액세스 기능을 갖춘, 관리가 간편하고 빠르며 안전한 스토리지가 필요한 엔터프라이즈 애플리케이션을 위해 설계되었습니다.</block>
-  <block id="92c71332ca57dee04135a2037db6113d" category="paragraph">NetApp의 ONTAP 하드웨어 시스템은 All-Flash(AFF) 및 하이브리드 플래시 및 FAS(HDD 전용) 구성으로 제공되므로 성능, 용량 및 비용 요구사항을 가장 잘 충족하는 혼합 스토리지 미디어를 선택할 수 있습니다.</block>
   <block id="3732021d709f401480670fe0967338ce" category="paragraph">다양한 모델 조합을 클러스터링하여 동일한 스토리지 시스템에서 혼합 워크로드를 실행하고 최신 기술을 갖춘 새로운 세대의 스토리지를 추가하여 환경을 확장할 수 있습니다.</block>
   <block id="172f4b9c0cae1bff93aa1f4793e65421" category="paragraph">NetApp ASA(All-Flash SAN 어레이)는 FCP 또는 iSCSI 프로토콜을 통해 엔터프라이즈 미션 크리티컬 데이터베이스 및 기타 SAN 워크로드에 지속적인 데이터 가용성을 제공하는 단순화된 전용 SAN 경험을 제공합니다.</block>
   <block id="09cbbac77d0ef506dcbd294171cc66dc" category="paragraph">ONTAP의 MetroCluster 기능으로 구성된 ONTAP의 하드웨어 스토리지 시스템은 어레이 기반 클러스터링을 동기식 복제와 결합하여 지속적인 가용성과 데이터 무손실을 실현하는 솔루션을 제공합니다. MetroCluster 구성은 모든 미션 크리티컬 데이터를 트랜잭션별로 즉시 복제하므로 애플리케이션과 데이터에 중단 없이 액세스할 수 있도록 지원합니다.</block>
   <block id="f5663fc0d37f754e24c01ce5dd001d5f" category="paragraph">ONTAP 데이터 관리 소프트웨어는 ONTAP 하드웨어 시스템을 구동하는 클러스터 스토리지 소프트웨어입니다. ONTAP 소프트웨어는 모든 유형의 하드웨어 노드를 최대 24개까지 지원하는 글로벌 네임스페이스를 통해 유니파이드 스토리지(블록 및 파일)를 지원하므로, ONTAP System Manager GUI를 사용하여 상당한 워크로드 통합을 관리할 수 있습니다.</block>
-  <block id="1f90335d79116dc043d2eb600c05f7dd" category="summary">NetApp의 ONTAP AFF, FAS 및 ASA 하드웨어 스토리지 시스템은 엔터프라이즈급 안정성을 갖춘 All-Flash 스토리지가 필요한 고대역폭 애플리케이션을 위한 스토리지 및 애플리케이션 데이터 관리 서비스를 제공합니다.</block>
   <block id="ec6e72d1c4bb7dccdc62b6caf35c95f7" category="doc">ONTAP 하드웨어 시스템 설명서</block>
   <block id="0f7d6ea8518a2e39acde3d5aa8ea5537" category="sidebar">ONTAP 하드웨어 시스템에 대해 알아보십시오.</block>
   <block id="273baa0433bc0b2ead69ee760355071e" category="sidebar">ONTAP 하드웨어 시스템을 업그레이드합니다.</block>
@@ -39,7 +37,6 @@
   <block id="ac554de1abd48f1d4e9d0b803b89b6b2" category="inline-link">AFF C-Series 데이터시트를 읽어 보십시오</block>
   <block id="0baf72dac72f2e22e58f0abc0fa72799" category="list-text"><block ref="0baf72dac72f2e22e58f0abc0fa72799" category="inline-link-rx"></block></block>
   <block id="fde1abb5537b55c34521d414267b3f70" category="paragraph-title">ASA r2 시스템</block>
-  <block id="0ab1a7883d0399cbaf77a2e38633a6ea" category="paragraph">새로운 NetApp ASA R2 시스템(ASA A1K, ASA A70 및 ASA A90)은 SAN 전용 고객의 요구 사항에 맞는 간소화된 환경을 제공하는 통합된 하드웨어 및 소프트웨어 솔루션을 제공합니다.</block>
   <block id="6f3d0a4543e47707e06e149c91eb5fdd" category="paragraph">ASA R2 시스템에서 ONTAP 소프트웨어 및 System Manager를 간소화하여 필수 SAN 기능을 지원하는 동시에 SAN 환경에서 지원되지 않는 기능에 대한 가시성을 제거합니다.</block>
   <block id="bc585fd3bb77a81c83d188dc9046556e" category="inline-link">ASA 데이터시트를 읽어 보십시오</block>
   <block id="7a876ada0a90e5a61dfa89b62a3504c3" category="list-text"><block ref="7a876ada0a90e5a61dfa89b62a3504c3" category="inline-link-rx"></block></block>
@@ -59,4 +56,13 @@
   <block id="61c17d0c22614e250efe81202fb7ad15" category="sidebar">ONTAP 하드웨어 시스템을 설치 및 유지 관리합니다</block>
   <block id="fb2155b80abb48917d9629adfc2cf42d" category="sidebar">ONTAP 하드웨어 시스템을 설치 및 유지 관리합니다.</block>
   <block id="c1334bdf7221f4c6be726ce308889f18" category="list-text"><block ref="c1334bdf7221f4c6be726ce308889f18" category="inline-link-rx"></block></block>
+  <block id="94aedb8c9e1130ca4bec7685c2d4b852" category="paragraph">NetApp의 ONTAP 하드웨어 시스템은 올플래시, 하이브리드 플래시 및 HDD 전용 구성으로 제공되므로 성능, 용량 및 비용 요구 사항에 가장 적합한 스토리지 미디어 조합을 선택할 수 있습니다.</block>
+  <block id="e9d7397e9772df2e11071d57657f4b22" category="section-title">AFX</block>
+  <block id="92aad19229e2fec4b79aaedee2d2e16b" category="paragraph">NetApp AFX는 병렬 파일 시스템과 틈새 AI 스토리지 솔루션의 모든 성능 이점을 제공하는 엔터프라이즈급 분산형 올플래시 스토리지 시스템이지만, 간단하고 안전하며 완벽하게 통합된 엔터프라이즈급 플랫폼입니다.</block>
+  <block id="271d89ad236b08f12870d2390f8e6d86" category="inline-link">AFX 데이터시트를 읽어보세요</block>
+  <block id="8ce666a5f2725e171f7d317a1f7afce8" category="list-text"><block ref="8ce666a5f2725e171f7d317a1f7afce8" category="inline-link-rx"></block></block>
+  <block id="fb5c18a654f6c13352d46548b1f57acd" category="inline-link">AFX 스토리지에 대해 자세히 알아보세요</block>
+  <block id="8ee84128290dd12026974dacb6404ed8" category="list-text"><block ref="8ee84128290dd12026974dacb6404ed8" category="inline-link-rx"></block></block>
+  <block id="fe1c154e079a54d2e08bfd97c768549d" category="paragraph">새로운 NetApp ASA r2 시스템(ASA A1K, ASA A70, ASA A90, ASA A20, ASA A30, ASA A50 및 C30)은 SAN 전용 고객의 요구 사항에 맞춰 간소화된 환경을 만드는 통합 하드웨어 및 소프트웨어 솔루션을 제공합니다.</block>
+  <block id="8a7195a48274621b19dc4fd921470095" category="sidebar">NetApp의 ONTAP 하드웨어 스토리지 시스템은 엔터프라이즈급 안정성을 갖춘 간단하고 관리하기 쉬운 올플래시 스토리지가 필요한 고대역폭 애플리케이션을 위한 스토리지 및 애플리케이션 데이터 관리 서비스를 제공합니다.</block>
 </blocks>
