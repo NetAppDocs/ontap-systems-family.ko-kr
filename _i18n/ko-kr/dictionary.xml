@@ -39,7 +39,6 @@
   <block id="fde1abb5537b55c34521d414267b3f70" category="paragraph-title">ASA r2 시스템</block>
   <block id="6f3d0a4543e47707e06e149c91eb5fdd" category="paragraph">ASA R2 시스템에서 ONTAP 소프트웨어 및 System Manager를 간소화하여 필수 SAN 기능을 지원하는 동시에 SAN 환경에서 지원되지 않는 기능에 대한 가시성을 제거합니다.</block>
   <block id="bc585fd3bb77a81c83d188dc9046556e" category="inline-link">ASA 데이터시트를 읽어 보십시오</block>
-  <block id="7a876ada0a90e5a61dfa89b62a3504c3" category="list-text"><block ref="7a876ada0a90e5a61dfa89b62a3504c3" category="inline-link-rx"></block></block>
   <block id="3cf42084274355921caa718c1294f55d" category="inline-link-macro">새로운 ASA R2 시스템을 ASA 시스템과 비교</block>
   <block id="783b26e83ca5758a4e3f7d5064ab895f" category="list-text">에 대해 자세히 알아보십시오 <block ref="4fb12820a3f220b3942114edd9f55791" category="inline-link-macro-rx"></block></block>
   <block id="e5e09031843479ef9ef8cbbd4c2f404c" category="inline-link">NetApp Hardware Universe를 참조하십시오</block>
@@ -65,4 +64,5 @@
   <block id="8ee84128290dd12026974dacb6404ed8" category="list-text"><block ref="8ee84128290dd12026974dacb6404ed8" category="inline-link-rx"></block></block>
   <block id="fe1c154e079a54d2e08bfd97c768549d" category="paragraph">새로운 NetApp ASA r2 시스템(ASA A1K, ASA A70, ASA A90, ASA A20, ASA A30, ASA A50 및 C30)은 SAN 전용 고객의 요구 사항에 맞춰 간소화된 환경을 만드는 통합 하드웨어 및 소프트웨어 솔루션을 제공합니다.</block>
   <block id="8a7195a48274621b19dc4fd921470095" category="sidebar">NetApp의 ONTAP 하드웨어 스토리지 시스템은 엔터프라이즈급 안정성을 갖춘 간단하고 관리하기 쉬운 올플래시 스토리지가 필요한 고대역폭 애플리케이션을 위한 스토리지 및 애플리케이션 데이터 관리 서비스를 제공합니다.</block>
+  <block id="37b7020ecd07f5ae16789de6b8a5395e" category="list-text"><block ref="37b7020ecd07f5ae16789de6b8a5395e" category="inline-link-rx"></block></block>
 </blocks>
